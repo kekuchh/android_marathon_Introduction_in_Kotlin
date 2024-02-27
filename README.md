@@ -1,6 +1,6 @@
 # android_marathon_Introduction_in_Kotlin
 
-![image](https://github.com/kekuchh/android_marathon_Introduction_in_Kotlin/assets/98802601/3bfe43c2-2c88-4ce0-8d3e-6e95c21ef11a)
+![image](https://github.com/kekuchh/android_marathon_introduction_in_Kotlin/assets/98802601/3bfe43c2-2c88-4ce0-8d3e-6e95c21ef11a)
 
 ![image](https://github.com/kekuchh/android_marathon_Introduction_in_Kotlin/assets/98802601/b6185b11-7d3a-4601-b238-0126bb6ae848)
 
